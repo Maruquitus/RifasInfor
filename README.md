@@ -1,8 +1,8 @@
-# Rifas Infor
+# 💵 Rifas Infor
 Projeto que eu fiz para automatizar o processo de prestação de contas de uma rifa virtual da minha sala.
 A prestação é feita por meio de um formulário do Google Forms, conectado com uma interface web no pythonanywhere.
 
-## Códigos
+## 👨‍💻 Códigos
 ### gerador.py
 Responsável por gerar as cartelas dos alunos contidos em pessoas.txt.
 <img src="https://github.com/Maruquitus/RifasInfor/assets/58173530/8d4ed756-b822-428c-9e18-17bf744e05ae" width=600>
@@ -13,7 +13,7 @@ Recebe os requests enviados pelo formulário e executa a função de atualizaç�
 ### planilha.py
 Código que atualiza as informações da planilha de acordo com as novas respostas do formulário.
 
-## Imagens
+## 📷 Imagens
 ### Formulário
 ![image](https://github.com/Maruquitus/RifasInfor/assets/58173530/e8fd2fdf-3896-4da1-a2e6-93fffb6131b8)
 
